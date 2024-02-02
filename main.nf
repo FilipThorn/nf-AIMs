@@ -10,7 +10,7 @@ if (params.help) {
             | |````   | |
             | |ilip   | |hörn     
             –––––––––––––––––––––––––––––––––––––––
-            Ancestry Painter 
+            AIMs  
             NEXTFLOW   P I P E L I N E                
             –––––––––––––––––––––––––––––––––––––––
             'USAGE'
